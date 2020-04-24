@@ -1,0 +1,19 @@
+{
+  "name": "@toolio/log",
+  "version": "0.2.0",
+  "description": "Add life to your logs with chalk and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "tooliojs",
+    "logging",
+    "utility"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@toolio/config": "^0.2.3",
+    "chalk": "^4.0.0"
+  }
+}
