@@ -1,3 +1,5 @@
 .circleci
 .vscode
 test
+CODE_OF_CONDUCT*
+CONTRIBUTING*
