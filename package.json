@@ -1,6 +1,6 @@
 {
   "name": "@toolio/log",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Add life to your logs with chalk and more.",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,14 @@
     "logging",
     "utility"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tooliojs/log.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tooliojs/log/issues"
+  },
+  "homepage": "https://github.com/tooliojs/log#readme",
   "license": "MIT",
   "dependencies": {
     "@toolio/config": "^0.2.3",
