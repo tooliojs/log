@@ -1,3 +1,5 @@
-.toolio
-node_modules
+tmp/
+.vscode/
+.toolio/
+node_modules/
 package-lock*
