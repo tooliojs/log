@@ -3,7 +3,9 @@
 **Add life to your logs with chalk and more.**
 
 [![CircleCI](https://circleci.com/gh/tooliojs/log.svg?style=shield)](https://circleci.com/gh/tooliojs/log)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/tooliojs/log/blob/master/LICENSE.md)
+[![npm (scoped)](https://img.shields.io/npm/v/@toolio/log)](https://www.npmjs.com/package/@toolio/log)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/tooliojs/log/blob/master/LICENSE.md)
+[![Chat](https://img.shields.io/badge/chat-on%20discord-blue.svg)](https://discord.gg/UuNhTFN)
 
 ## Install
 ```
